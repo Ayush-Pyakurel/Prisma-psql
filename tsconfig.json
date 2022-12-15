@@ -1,0 +1,21 @@
+
+
+
+
+
+
+{
+ "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": ["esnext"]
+  },
+  // {
+  //   "exclude": ["node_modules"],
+  //   "include": ['']
+  // },
+  }
+ 
+
